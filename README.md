@@ -1,12 +1,4 @@
-My personal react-webpack-babel-whatever boilerplate.
-
-## Features
-* ES2016 + JSX with [Babel](https://babeljs.io/)
-* Asset bundling with [Webpack](https://webpack.github.io/)
-* [Express](https://expressjs.com/) webserver
-* [CSS Modules](https://github.com/css-modules/css-modules)
-* Standalone desktop builds using [Electron](http://electron.atom.io/)
-* Mobile builds using [Cordova](https://cordova.apache.org/)
+Magic the Gathering life counter app.
 
 ## Commands
 
